@@ -62,4 +62,46 @@ class InArrayInit {
 }
 ```
 
+```java
+class CloneArray() {
+    public static void main(String[] args) {
+        int[] a = {1, 2, 3, 4, 5};
+        int[] b = a.clone(); // 배열 복제
+
+        b[3] = 0;
+
+        System.out.print("a =");
+        for (int i = 0; i < a.length; i++)
+            System.out.print(" " + a[i]);
+        System.out.print("\nb =");
+        for (int i = 0; i < b.length; i++)
+            System.out.print(" " + b[i])
+        // a = 1 2 3 4 5
+        // b = 1 2 3 0 5
+    }
+}
+```
+(+) 배열 복제시 복제한 배열에 대한 참조를 생성함. 배열 b 생성시 배열 a의 복제를 참조하도록 초기화됨
+
+## 접근 제한자
+- 객체의 멤버에 대한 접근을 제한
+
+### 종류
+- public : 모든 접근 허용
+- protected : 같은 패키지(폴더)의 객체, 상속 관계의 객체 허용
+- default : 같으 패키지(폴더)의 객체 허용
+- private : 현재의 객체 안에서만 허용
+
+접근 제한자 사용
+- 클래스 : public, default
+- 생성자 : public, protected, default, private
+- 멤버 변수 : public, protected, default, private
+- 멤버 메서드 : public, protected, default, private
+- 지역 변수 : 접근 제한자를 사용할 수 없음
+
+```java
+// a[idx1] <-> a[idx2]
+int t = a[idx1]; a[idx1] = a[idx2]; a[idx2] = t;
+```
+
 [Up](#)
