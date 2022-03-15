@@ -186,3 +186,9 @@ String str = name + 8.0 // Java8.0
 ```
 > 문자열 + **any type** = 문자열 + **문자열** => 문자열  
 > **any type** + 문자열 = **문자열** + 문자열 => 문자열
+
+## printf()
+: 지시자(specifier)를 통해 변수의 값을 여러 가지 형식으로 변환하여 출력하는 기능 (줄바꿈X)
+> println() : 출력 후 줄바꿈
+
+![image](/images/variable_4.png)
