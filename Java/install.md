@@ -16,3 +16,11 @@
 > [Oracle Docs](https://docs.oracle.com/en/java/javase/17/install/installation-jdk-macos.html)
 
 [출처](https://huilife.tistory.com/58)
+
+## vscode java
+- extension : Extension Pack for Java
+![image](/images/java_install_3.png)
+- 설치 확인
+![image](/images/java_install_4.png)
+
+[참고 블로그](https://zel0rd.tistory.com/118)
