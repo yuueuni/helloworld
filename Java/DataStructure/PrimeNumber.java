@@ -79,8 +79,8 @@ class PrimeNumber {
     }
 
     public static void main(String[] args) {
-        System.out.println("==== start prime number 1=====");
         int pn1, pn2, pn3;
+        System.out.println("==== start prime number 1=====");
         pn1 = primeNumber1();
         System.out.println("==== start prime number 2 =====");
         pn2 = primeNumber2();
