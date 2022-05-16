@@ -83,6 +83,18 @@ class CloneArray() {
 ```
 (+) 배열 복제시 복제한 배열에 대한 참조를 생성함. 배열 b 생성시 배열 a의 복제를 참조하도록 초기화됨
 
+## String
+- 자바에서는 char 배열이 아닌 String 클래스를 이용해서 문자열을 처리하는데, String 클래스가 char 배열에 여러 가지 기능을 추가하여 확장한 것이기 때문이다.
+
+### 주요 메서드
+메서드 | 설명
+:----: | :------:
+char charAt(int index) | 문자열에서 해당 위치(index)에 있는 문자를 반환한다.
+int length() | 문자열의 길이를 반환한다.
+String substring(int from, int to) | 문자열에서 해당 범위(from ~ to)에 있는 문자열을 반환한다. (to는 범위에 포함되지 않음)
+boolean equals(String str) | 문자열의 내용이 같은지 확인한다. 같으면 결과는 true, 다르면 false 가 된다.
+char[] toCharArray() | 문자열을 문자배열(char[])로 변환해서 반환한다.
+
 ## 접근 제한자
 - 객체의 멤버에 대한 접근을 제한
 
