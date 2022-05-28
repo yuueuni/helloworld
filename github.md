@@ -9,3 +9,6 @@
 ### todo
 - [ ] SNS, SQS
 - [ ] Replication Lag
+- [ ] Lambda, EKS, Apex(+Chalice)
+- [ ] Scheduler
+- [ ] Batch
