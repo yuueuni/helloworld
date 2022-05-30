@@ -12,3 +12,5 @@
 - [ ] Lambda, EKS, Apex(+Chalice)
 - [ ] Scheduler
 - [ ] Batch
+- [ ] 암호화
+    - Hashmac, Sha256, baseEncoding, (AWS)KMS ..
