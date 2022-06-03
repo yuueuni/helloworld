@@ -5,12 +5,3 @@
 - [https://jekyllthemes.io](https://jekyllthemes.io)
 - [http://jekyllthemes.org](http://jekyllthemes.org)
 > theme choose
-
-### todo
-- [ ] SNS, SQS
-- [ ] Replication Lag
-- [ ] Lambda, EKS, Apex(+Chalice)
-- [ ] Scheduler
-- [ ] Batch
-- [ ] 암호화
-    - Hashmac, Sha256, baseEncoding, (AWS)KMS ..
