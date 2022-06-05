@@ -12,3 +12,4 @@
 - [ ] 암호화
     - Hashmac, Sha256, baseEncoding, (AWS)KMS ..
 - [ ] DB connection pool
+- [ ] Docker, kubernetes
