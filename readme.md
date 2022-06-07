@@ -14,3 +14,4 @@
     - Hashmac, Sha256, baseEncoding, (AWS)KMS ..
 - [ ] DB connection pool
 - [ ] Docker, kubernetes
+- [O] Python - [*args, **kwargs](https://github.com/yuueuni/helloworld/tree/main/Python/argument.md)
