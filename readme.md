@@ -11,7 +11,10 @@
 - [ ] Scheduler
 - [ ] Batch
 - [ ] 암호화
-    - Hashmac, Sha256, baseEncoding, (AWS)KMS ..
+  - Hashmac, Sha256, baseEncoding, (AWS)KMS ..
 - [ ] DB connection pool
+  - Spring (Boot), Django, Codeigniter, ..
 - [ ] [Docker](https://github.com/yuueuni/helloworld/tree/main/Docker), kubernetes, kafka
-- [O] Python - [*args, **kwargs](https://github.com/yuueuni/helloworld/tree/main/Python/argument.md)
+- [O] Python
+  - [*args, **kwargs](https://github.com/yuueuni/helloworld/tree/main/Python/argument.md)
+
