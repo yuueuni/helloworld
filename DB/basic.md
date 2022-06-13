@@ -19,3 +19,8 @@
 
 - Transacton Control Language
   - ex) COMMIT, ROLLBACK, SAVEPOINT
+
+## MYSQL
+
+- ONLINE DDL
+  - [v5.6 MYSQL (Online DDL)](https://dev.mysql.com/doc/refman/5.6/en/innodb-online-ddl-operations.html)
