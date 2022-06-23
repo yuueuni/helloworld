@@ -6,7 +6,7 @@
 - [DB](https://github.com/yuueuni/helloworld/tree/main/DB)
 
 ## TODO
-- [ ] SNS, SQS
+- [ ] [SNS, SQS](https://github.com/yuueuni/helloworld/tree/main/Note/SQS_SNS.md)
 - [ ] Replication Lag
 - [ ] Lambda, EKS, Apex(+Chalice)
 - [ ] Scheduler
