@@ -1,12 +1,15 @@
 # Hello World
 
 ## Index
+
 - [Java](https://github.com/yuueuni/helloworld/tree/main/Java)
 - [Docker](https://github.com/yuueuni/helloworld/tree/main/Docker)
 - [DB](https://github.com/yuueuni/helloworld/tree/main/DB)
 
 ## TODO
-- [ ] [SNS, SQS](https://github.com/yuueuni/helloworld/tree/main/Note/SQS_SNS.md)
+
+- [O] AWS
+  - [SNS, SQS](https://github.com/yuueuni/helloworld/tree/main/Note/SQS_SNS.md)
 - [ ] Replication Lag
 - [ ] Lambda, EKS, Apex(+Chalice)
 - [ ] Scheduler
