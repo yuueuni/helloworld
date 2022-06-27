@@ -16,4 +16,15 @@ select phone_number
 from member_phone
 where member_no = @no
 ```
-  - `@{변수명}` 으로 쿼리내 변수 선언하여 사용 가능
+
+- `@{변수명}` 으로 쿼리내 변수 선언하여 사용 가능
+
+## datetime vs timestamp
+
+- datetime : timezone 변경시 영향X
+  - 1000-01-01 00:00:00부터 9999-12-31 23:59:59까지 지원
+
+- timestamp : timezone 변경시 영향O
+  - 1970-01-01 00:00:01부터 2038-01-19 03:14:07까지 지원
+
+- timestamp index가 더 빠르게 생성됨
