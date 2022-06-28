@@ -10,7 +10,7 @@
 
 - [O] AWS
   - [SNS, SQS](https://github.com/yuueuni/helloworld/tree/main/Note/SQS_SNS.md)
-- [ ] Replication Lag
+- [O] [Replication Lag]((https://github.com/yuueuni/helloworld/tree/main/DB/note.md#ReplicationLag))
 - [ ] Lambda, EKS, Apex(+Chalice)
 - [ ] Scheduler
 - [ ] Batch

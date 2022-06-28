@@ -28,3 +28,9 @@ where member_no = @no
   - 1970-01-01 00:00:01부터 2038-01-19 03:14:07까지 지원
 
 - timestamp index가 더 빠르게 생성됨
+
+## Replication Lag
+
+- 복제 지연
+
+- 마스터에서는 여러 개의 thread 가 동시다발적으로 write 를 수행하고 있는 반면, 슬레이브에 replay 하는 thread 는 1개 밖에 되지 않기 때문
