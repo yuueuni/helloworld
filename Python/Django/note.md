@@ -13,3 +13,12 @@ class MyViewSet(ViewSet):
     def create_example(self, request, **kwargs):
         ...
 ```
+
+## Left Join
+
+- 전제 조건 : fk 컬럼 있어야 함
+
+```python
+{table name}.objects.filter({column_left}__{column_right}={condition})
+```
+
