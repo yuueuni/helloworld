@@ -14,7 +14,9 @@ class MyViewSet(ViewSet):
         ...
 ```
 
-## Left Join
+## Join
+
+### Left Join
 
 - 전제 조건 : fk 컬럼 있어야 함
 
