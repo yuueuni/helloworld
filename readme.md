@@ -12,9 +12,9 @@
 
 ## TODO
 
-- [O] AWS
+- [x] AWS
   - [SNS, SQS](https://github.com/yuueuni/helloworld/tree/main/Note/SQS_SNS.md)
-- [O] [Replication Lag](https://github.com/yuueuni/helloworld/blob/main/DB/note.md#replication-lag)
+- [x] [Replication Lag](https://github.com/yuueuni/helloworld/blob/main/DB/note.md#replication-lag)
 - [ ] Lambda, EKS, Apex(+Chalice)
 - [ ] Scheduler
 - [ ] Batch
@@ -23,9 +23,9 @@
 - [ ] DB connection pool
   - Spring (Boot), Django, Codeigniter, ..
 - [ ] [Docker](https://github.com/yuueuni/helloworld/tree/main/Docker), kubernetes, kafka
-- [O] Python
+- [x] Python
   - [*args, **kwargs](https://github.com/yuueuni/helloworld/tree/main/Python/argument.md)
-- [O] Java
+- [x] Java
   - Spring Boot
     - JPA, Mybatis
 - Cloud ?
