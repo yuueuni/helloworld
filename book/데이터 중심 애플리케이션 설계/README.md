@@ -5,3 +5,10 @@
 
 - [도서](https://product.kyobobook.co.kr/detail/S000001766328)
 
+
+part1
+- 데이터시스템의 기초
+
+part2
+- 분산 데이터
+
