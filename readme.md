@@ -1,9 +1,12 @@
 # Hello World
 
+## 면접 대비 내용 정리
+- [노션 정리](https://yooeun.notion.site/621f651a9cdf4851a066dbd1816ac4d9)
+
 ## Index
 
 - [Java](https://github.com/yuueuni/helloworld/tree/main/Java)
-  - [Spring](https://github.com/yuueuni/helloworld/tree/main/Java/Spring)
+  - [SpringBoot](https://github.com/yuueuni/helloworld/tree/main/Java/SpringBoot)
 - [Docker](https://github.com/yuueuni/helloworld/tree/main/Docker)
 - [DB](https://github.com/yuueuni/helloworld/tree/main/DB)
 - [Python](https://github.com/yuueuni/helloworld/tree/main/Python)
