@@ -1,7 +1,7 @@
 # Hello World
 
 ## 면접 대비 내용 정리
-- [노션 정리](https://yooeun.notion.site/621f651a9cdf4851a066dbd1816ac4d9)
+- [노션 정리](https://bit.ly/backend-interview-handbook)
 
 ## Index
 
